@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
 - 📫 How to reach me: linkedin :point_down:
-- ⚡ Fun fact: always on the move... try to catch me :relaxed:
 
 <br>
 
