@@ -2,10 +2,10 @@
 
 <br>
 
-**I'm Felipe**
+**Here is Felipe and ...**
 
-- 🔭 I’m currently working on my career change to Data Analytics :bar_chart: :chart_with_upwards_trend:
-- 🌱 I’m currently learning Python / SQL / Tableau
+- :bar_chart: I’m changing my career to Data Analytics
+- 🌱 I’m currently an [Ironhack Bootcamper](https://www.ironhack.com/) – improving my Python / SQL / Tableau skills
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
