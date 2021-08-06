@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
 - 🦜 Love *free in nature* parrots, specially our daily visitors [check them here](https://www.wikiaves.com.br/midias.php?tm=f&t=u&u=43713&s=10483#) 💚
-- - 📫 How to reach me: linkedin :point_down:
+- 📫 How to reach me: linkedin :point_down:
 
 <br>
 
