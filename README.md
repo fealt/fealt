@@ -31,4 +31,4 @@
 
 #### Projects I'm proud of:
 
-💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021). **A fictional bike-share company in Chicago/US.*
+💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
