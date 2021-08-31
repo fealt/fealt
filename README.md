@@ -33,4 +33,4 @@
 
 💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
 <br>
-💡 [Where in Australia to build a shark-free family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
+💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
