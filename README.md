@@ -13,6 +13,14 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipealtermann/)
 
+
+
+#### Projects I'm proud of:
+
+💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
+
+💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
+
 <hr>
 
 #### Languages and Tools:
@@ -27,10 +35,4 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![DataCamp Badge](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
 
-<hr>
-
-#### Projects I'm proud of:
-
-💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
 <br>
-💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
