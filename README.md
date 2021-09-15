@@ -21,6 +21,8 @@
 
 💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
 
+💡 [Tableau Public Visualizations](https://public.tableau.com/app/profile/altermann) – Diving deep into different analysis to deliver amazing visualizations.
+
 <hr>
 
 #### Languages and Tools:
