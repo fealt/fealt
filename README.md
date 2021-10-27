@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
 - 🦜 Love *free in nature* parrots, specially our daily visitors [check them here](https://www.wikiaves.com.br/midias.php?tm=f&t=u&u=43713&s=10483#) 💚
-- 📚 Fun fact: I wrote and published a book („Gedächtniskirche/ Templo Memorial”, bilingual edition in German and Portuguese)
+- 📚 Fun fact: I wrote and published a book „Gedächtniskirche/ Templo Memorial”, bilingual edition in German and Portuguese
 - 📫 How to reach me: 👇🏻
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipealtermann/)
@@ -22,7 +22,9 @@
 
 💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
 
-💡 [Tableau Public Visualizations](https://public.tableau.com/app/profile/altermann) – Diving deep into different analysis to deliver amazing visualizations.
+💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future) – Data gathering with API (Python) and Tableau visualization: Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021). A *#viz4ClimateAction* to make us **aware, wake up and take real action** about worldwide explosive meat consumption growth and it's huge share in total Greenhouse Gas Emissions (GHG).
+
+💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/altermann) – Diving deep into different analysis to deliver amazing visualizations.
 
 <hr>
 
