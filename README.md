@@ -20,7 +20,7 @@
 
 💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future) 🥩 – Data gathering with API (Python) and Tableau visualization: Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021). A *#viz4ClimateAction* to make us (yeah!, me and you) **aware, wake up and take real action** about worldwide explosive meat consumption growth and its huge share in total Greenhouse Gas Emissions (GHG).
 
-💡 🦈 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) 🦈 – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
+💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/) 🦈 – Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
 
 💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google) 🚲 – How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
 
