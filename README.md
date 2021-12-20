@@ -3,7 +3,7 @@
 
 **Here is Felipe and ...**
 
-- 📊 I changed my career to tech ♡ and just finished the Data Analytics Bootcamp at [Ironhack](https://www.ironhack.com/)
+- 📊 I changed my career to tech ♡ and just finished the **Data Analytics Bootcamp** at [Ironhack](https://www.ironhack.com/)
 - 🤓 Continuously improving Python ~ SQL ~ Tableau skills
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
