@@ -18,13 +18,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipealtermann/)
 
-
+<br>
 
 #### Projects I'm proud of:
 
 💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;Answering 'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters. Capstone Project @ ***Ironhack Data Analytics Bootcamp*** (Dec'2021).
 
-💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering with API (Python) and Tableau visualization: Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021). A *#viz4ClimateAction* to make us (yeah!, me and you) **aware, wake up and take real action** about worldwide explosive meat consumption growth and its huge share in total Greenhouse Gas Emissions (GHG).
+💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering with API (Python) and **Tableau** visualization: Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021). A *#viz4ClimateAction* to make us (yeah!, me and you) **aware, wake up and take real action** about worldwide explosive meat consumption growth and its huge share in total Greenhouse Gas Emissions (GHG).
 
 💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/)&nbsp;&nbsp;🦈&nbsp;&nbsp;Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
 
