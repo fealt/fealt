@@ -1,7 +1,8 @@
-### Hi there 👋🏻
+#### Hi there 👋🏻
+
 <br>
 
-**Here is Felipe and ...**
+### **Here is Felipe and ...**
 
 - 📊 I changed my career to tech ♡
   + just finished the 6 months part-time **Data Analytics Bootcamp** at [Ironhack](https://www.ironhack.com/)
@@ -20,7 +21,7 @@
 
 <br>
 
-#### Projects I'm proud of:
+### Projects I'm proud of:
 
 💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;Answering 'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters. Capstone Project @ ***Ironhack Data Analytics Bootcamp*** (Dec'2021).
 
