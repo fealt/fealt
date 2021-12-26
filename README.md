@@ -21,6 +21,12 @@
 
 <br>
 
+> NEW: click [here to visit my **Portfolio**](https://fealt.github.io/portfolio/)
+
+<br>
+
+<br>
+
 ### Projects I'm proud of:
 
 💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;Answering 'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters. Capstone Project @ ***Ironhack Data Analytics Bootcamp*** (Dec'2021).
