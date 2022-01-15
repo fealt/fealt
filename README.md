@@ -4,12 +4,12 @@
 
 ### **Here is Felipe and ...**
 
-- 📊 I am in **study sabbatical** to improve my career knowledge in the Data Analysis field. ♡
-- 💰 A financial and time investment that already yield some big returns:
-  + Certified **Data Analyst** by **Ironhack** via the **6 months Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
+- 📊 I am in a **sabbatical break** to upskill my career knowledge in the Data Analysis field ♡
+- 💰 A financial and time investment that already yields some big returns:
+  + Certified **Data Analyst** by **Ironhack** in a **6 months Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
   + Certified **Data Analyst with Python** in November 2021 by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
-- 🤓 Continuously improving Python, SQL, Statistics, Tableau skills at DataCamp.com
+- 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com
 - 👯 I’m looking to collaborate on Data Analytics and Data Science projects
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
@@ -33,9 +33,9 @@
 
 💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering via API and data cleaning with Python to create a **Tableau** *#viz4ClimateAction* (Oct'2021).
 
-💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/)&nbsp;&nbsp;🦈&nbsp;&nbsp;I found a pretty nice spot for my hypothetical client (Aug'2021). 😅
+💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/)&nbsp;&nbsp;🦈&nbsp;&nbsp;I found a pretty nice spot for my hypothetical client (Aug'2021).
 
-💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google)&nbsp;&nbsp;🚲&nbsp;&nbsp;How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
+💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google)&nbsp;&nbsp;🚲&nbsp;&nbsp;How do annual members and casual riders use *Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
 
 💡 [Check my Tableau Visualizations](https://public.tableau.com/app/profile/altermann) – Diving deep into different analysis to deliver meaningful business visualizations.
 
