@@ -29,11 +29,11 @@
 
 ### Projects I'm proud of:
 
-💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;Answering 'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters. Capstone Project @ ***Ironhack Data Analytics Bootcamp*** (Dec'2021).
+💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;Answering 'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters (Dec'2021).
 
-💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering with API (Python) and **Tableau** visualization: Project #2 @ ***Ironhack Data Analytics Bootcamp*** (Oct'2021). A *#viz4ClimateAction* to make us (yeah!, me and you) **aware, wake up and take real action** about worldwide explosive meat consumption growth and its huge share in total Greenhouse Gas Emissions (GHG).
+💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering via API and data cleaning with Python to create a **Tableau** *#viz4ClimateAction* (Oct'2021).
 
-💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/)&nbsp;&nbsp;🦈&nbsp;&nbsp;Well, that was a huge challange! But I found a pretty nice spot for my hypothetical client. 😅 It's Project #1 @ ***Ironhack Data Analytics Bootcamp*** (Aug'2021).
+💡 [Where in Australia to build a 'shark-free' family resort?](https://fealt.github.io/shark-attacks-australia/)&nbsp;&nbsp;🦈&nbsp;&nbsp;I found a pretty nice spot for my hypothetical client (Aug'2021). 😅
 
 💡 [Cyclistic Case Study](https://www.kaggle.com/altermann/cyclistic-case-study-google)&nbsp;&nbsp;🚲&nbsp;&nbsp;How do annual members and casual riders use Cyclistic* bikes differently? My capstone project from the ***Google Data Analytics Professional Certificate*** (May'2021).
 
