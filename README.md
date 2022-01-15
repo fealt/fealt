@@ -4,13 +4,13 @@
 
 ### **Here is Felipe and ...**
 
-- 📊 I changed my career to tech ♡
-  + just finished the 6 months **Data Analytics Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
-  + completed the *Google Data Analytics Professional Certificate* in two months time in May 2021 [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
-  + got also certified with the *Data Analyst with Python* by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
- 
-- 🤓 I'm continuously improving Python ~ SQL ~ Tableau skills
-- 👯 I’m looking to collaborate on Data Analytics projects
+- 📊 I am in **study sabbatical** to improve my career knowledge in the Data Analysis field. ♡
+- 💰 A financial and time investment that already yield some big returns:
+  + Certified **Data Analyst** by **Ironhack** via the **6 months Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
+  + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
+  + Certified **Data Analyst with Python** in November 2021 by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
+- 🤓 Continuously improving Python ~ SQL ~ Tableau skills
+- 👯 I’m looking to collaborate on Data Analytics and Data Science projects
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
 - :parrot: Love *free in nature* parrots, specially our daily visitors [check them here](https://www.wikiaves.com.br/midias.php?tm=f&t=u&u=43713&s=10483#) 💚
