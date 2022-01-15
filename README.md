@@ -9,7 +9,7 @@
   + Certified **Data Analyst** by **Ironhack** via the **6 months Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
   + Certified **Data Analyst with Python** in November 2021 by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
-- 🤓 Continuously improving Python ~ SQL ~ Tableau skills
+- 🤓 Continuously improving Python, SQL, Statistics, Tableau skills at DataCamp.com
 - 👯 I’m looking to collaborate on Data Analytics and Data Science projects
 - 🤔 I’m looking for help with a new home made bread recipe :bread:
 - 💬 Ask me about trips and airplanes
