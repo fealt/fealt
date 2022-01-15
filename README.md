@@ -5,7 +5,7 @@
 ### **Here is Felipe and ...**
 
 - 📊 I changed my career to tech ♡
-  + just finished the 6 months part-time **Data Analytics Bootcamp** at [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
+  + just finished the 6 months **Data Analytics Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + completed the *Google Data Analytics Professional Certificate* in two months time in May 2021 [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
   + got also certified with the *Data Analyst with Python* by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
  
