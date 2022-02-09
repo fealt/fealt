@@ -29,7 +29,7 @@
 
 ### Projects I'm proud of:
 
-💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-flights/)&nbsp;&nbsp;✈️&nbsp;&nbsp;'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters (Dec'2021).
+💡 [*Regional flights in Brazil*](https://fealt.github.io/brazilian-regional-airports/)&nbsp;&nbsp;✈️&nbsp;&nbsp;'what is a regional airport?' – applied **machine learning** to classify brazilian airports in clusters (Dec'2021).
 
 💡 [*'meat, the future?'*](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future)&nbsp;&nbsp;🍖&nbsp;&nbsp;Data gathering via API and data cleaning with Python to create a **Tableau** *#viz4ClimateAction* (Oct'2021).
 
