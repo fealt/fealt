@@ -4,9 +4,9 @@
 
 ### **Here is Felipe and ...**
 
-- 📊 I am in a **sabbatical break** to upskill my career knowledge in the Data Analysis field ♡
-- 💰 A financial and time investment that already yields some big returns:
-  + Certified **Data Analyst** by **Ironhack** in a **6 months Bootcamp** last December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
+- 📊 I am in *very happy* **Data Analyst** currently working at **Provi**, a brazilian fintech ♡
+- 💰 I devoted the whole year of 2021 to an upskilling **sabbatical break**, a financial and time investment that yield great achievements:
+  + Certified **Data Analyst** by **Ironhack** in a **6 months Bootcamp** in December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
   + Certified **Data Analyst with Python** in November 2021 by DataCamp [See credential](https://www.datacamp.com/statement-of-accomplishment/track/29374f5f9f75656ce984cb3bda96b1548bd963bc)
 - 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com
