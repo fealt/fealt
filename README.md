@@ -4,7 +4,8 @@
 
 ### **Here is Felipe and ...**
 
-- 📊 I am a *very happy* **Data Analyst** currently working at **Provi**, a brazilian fintech ♡
+- 📊 I am a *very happy* **Data Analytics Consultant** currently working at [**Claro Brasil**](http://www.claro.com.br/), a brazilian mobile, satellite-television and broadband telecommunications operator — controlled by the Mexican company [América Móvil](https://www.americamovil.com/)
+- 📒 Currently attending a specialized course in [Data Architecture](https://fia.com.br/extensao-ead/arquitetura-dados/) at the renowned *FIA Business School*
 - 💰 I devoted the whole year of 2021 to an upskilling **sabbatical break**, a financial and time investment that yielded great achievements:
   + Certified **Data Analyst** by **Ironhack** in a **6 months Bootcamp** in December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
