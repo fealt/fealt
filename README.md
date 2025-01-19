@@ -5,8 +5,9 @@
 ### **Here is Felipe and ...**
 
 - 📊 I am a *very happy* **Senior Data Analyst** working at [**Blue Orange Digital**](https://blueorange.digital/), a data transformation and cloud infrastructure agency specializing in helping businesses to implement data-driven analytic techniques
-- ❄️ Currently in love with Snowflake and dbt 📚
-- 📒 Last year attended a specialized course in [Data Architecture](https://fia.com.br/extensao-ead/arquitetura-dados/) at the renowned *FIA Business School*
+- 📚 Currently in love with Databricks, Snowflake and dbt
+  + Just got another certification: [Databricks Certified Data Analyst Associate](https://www.credential.net/15fed725-6c33-4c2e-9fd7-3f6ee6de619c#acc.tN6M49Bx)
+- 📒 Recently attended a specialized course in [Data Architecture](https://fia.com.br/extensao-ead/arquitetura-dados/) at the renowned *FIA Business School*
 - 💰 I devoted the whole year of 2021 to an upskilling **sabbatical break**, a financial and time investment that yielded great achievements:
   + Certified **Data Analyst** by **Ironhack** in a **6 months Bootcamp** in December 2021 [See credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + Certified **Google Data Analytics Professional** in May 2021 by Grow with Google [See credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
