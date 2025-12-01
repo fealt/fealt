@@ -6,12 +6,13 @@
 
 ### **Here is Felipe and ...**
 
-- 📊 I am a *very happy* **Senior Data Analyst** working at [**Blue Orange Digital**](https://blueorange.digital/), a data transformation and cloud infrastructure agency specializing in helping businesses to implement data-driven analytic techniques
+- 📊 I am a **Senior Data Analyst** working at [**Blue Orange Digital**](https://blueorange.digital/), a data transformation and cloud infrastructure agency specializing in helping businesses to implement data-driven analytic techniques
 - 📚 Currently in love with **Databricks**, **Snowflake** and **dbt**
 - 📒 Recently completed a specialized course in [Data Architecture](https://fia.com.br/extensao-ead/arquitetura-dados/) at the renowned *FIA Business School*
-- 🏆 **2x Databricks Certified**:
+- 🏆 **3x Databricks Certified**:
   + [Databricks Certified Data Analyst Associate](https://www.credential.net/15fed725-6c33-4c2e-9fd7-3f6ee6de619c#acc.tN6M49Bx)
   + [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/1bcec640-d206-4ee4-af3c-7728d49b05e4#acc.rRQkjOT4)
+  + [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/4556c41d-cd0d-4204-bb33-510380acc50d#acc.pFeBQdyg)
 - 💰 Other certifications:
   + Certified **Data Analyst** by **Ironhack** — **6-month Bootcamp** [View credential](https://www.credential.net/947f17fb-0de2-414c-9b72-1ce355ec870e#gs.mhecfr)
   + **Google Data Analytics Professional** by Grow with Google [View credential](https://www.credly.com/badges/a357d2f3-4bc8-4d94-8834-78550dc66289?source=linked_in_profile)
